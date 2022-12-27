@@ -62,3 +62,4 @@ Feito isso, em qualquer lugar do seu template pode chamar o context.
 	
 {% endblock %}
 ```
+
